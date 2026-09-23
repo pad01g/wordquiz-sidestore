@@ -1,0 +1,39 @@
+{
+  "name": "WordQuiz",
+  "identifier": "io.github.pad01g.wordquiz.source",
+  "sourceURL": "https://pad01g.github.io/wordquiz-sidestore/apps.json",
+  "iconURL": "https://pad01g.github.io/wordquiz-sidestore/icon.png",
+  "tintColor": "#38BDF8",
+  "apps": [
+    {
+      "name": "WordQuiz",
+      "bundleIdentifier": "io.github.pad01g.wordquiz",
+      "developerName": "pad01g",
+      "subtitle": "4択クイズで単語を覚える",
+      "localizedDescription": "単語に対して4択のクイズが出題されます。\n間違えた単語だけが端末のローカルに記録され、あとからまとめて復習できます。\n復習で正解すると、その単語は記録から消えます。\n\n学習の記録が端末の外に出ることはありません。",
+      "iconURL": "https://pad01g.github.io/wordquiz-sidestore/icon.png",
+      "tintColor": "#38BDF8",
+      "category": "education",
+      "screenshots": [],
+      "versions": [
+        {
+          "version": "0.1.1",
+          "buildVersion": "101",
+          "date": "2026-09-23T06:47:03.420Z",
+          "size": 4536878,
+          "downloadURL": "https://pad01g.github.io/wordquiz-sidestore/ipa/WordQuiz-0.1.1-101.ipa",
+          "minOSVersion": "14.0"
+        }
+      ],
+      "version": "0.1.1",
+      "versionDate": "2026-09-23T06:47:03.420Z",
+      "downloadURL": "https://pad01g.github.io/wordquiz-sidestore/ipa/WordQuiz-0.1.1-101.ipa",
+      "size": 4536878,
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      }
+    }
+  ],
+  "news": []
+}
